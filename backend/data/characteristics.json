@@ -1,0 +1,18 @@
+[
+    {
+        "type": "size",
+        "values": ["small", "medium", "large"]
+    },
+    {
+        "type": "brand",
+        "values": ["Apple", "Samsung", "LG"]
+    },
+    {
+        "type": "class",
+        "values": ["phone", "laptop", "monoblock"]
+    },
+    {
+        "type": "color",
+        "values": ["black", "white", "space-grey"]
+    }
+]
